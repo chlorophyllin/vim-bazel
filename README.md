@@ -1,5 +1,8 @@
-vim-bazel
+vim-bazel (Deprecated. Please use [google/vim-ft-bzl](https://github.com/google/vim-ft-bzl) instead)
 =========
+
+**Deprecation notice: Please use the official Bazel Vim plugin instead:
+[google/vim-ft-bzl](https://github.com/google/vim-ft-bzl).**
 
 Vim syntax highlighting for [Bazel](https://bazel.io) `BUILD` files.
 
