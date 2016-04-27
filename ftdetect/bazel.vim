@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead BUILD,*.BUILD,WORKSPACE,*.WORKSPACE,*.bzl setlocal filetype=bazel
+autocmd BufNewFile,BufRead BUILD,*.BUILD,CROSSTOOL,WORKSPACE,*.WORKSPACE,*.bzl setlocal filetype=bazel
